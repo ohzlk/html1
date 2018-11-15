@@ -10,12 +10,9 @@ yqcb组的html作品的中期报告
 * 已完成部分<br>
     我们的html目前可以在Google浏览器上流畅运行。<br>
     进入网页后可以`自动！`播放gif，gif图片由组员围绕AI主题自行剪辑，11秒之后可以`自动！`跳转至网站首页，首页展示组内Logo，有符合主题的gif增加动画效果，使网页富有动态感，4个超链接按钮分别跳转至不同的页面。<br>
-![image]
-(http://giyhub.com/ohzlk/html1/blob/master/images/a.jpg)
-![image]
-(http://giyhub.com/ohzlk/html1/blob/master/images/b.jpg)
-![image]
-(http://giyhub.com/ohzlk/html1/blob/master/images/c.jpg)
+(http://giyhub.com/ohzlk/html1/blob/master/images/a.jpg)<br>
+(http://giyhub.com/ohzlk/html1/blob/master/images/b.jpg)<br>
+(http://giyhub.com/ohzlk/html1/blob/master/images/c.jpg)<br>
     尾页有自动播放的3秒倒计时，并伴有声效，增强视听效果。计时结束后自动询问是否关闭网页，尾页展示人工智能企图关闭网页控制人类。<br>
 * 未完成部分<br>
     4个超链接暂时未完成制作，3个子网页未完成操作，三个网页中预计展示：<br>
